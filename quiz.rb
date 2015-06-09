@@ -8,7 +8,7 @@ class Quiz
     {"What is polymorphism?": "Polymorphism allows different objects to be accessed by a common interface."},
     {"What is the Liskov substitution principle?": "When many different types implement the same interface, they can be substituted for one another."},
     {"What is encapsulation?": "Encapsulation provides objects with the ability to hide internal characteristics and behavior. Encapsulation itself is just the practice of putting functions and data inside a container."},
-    {"What is abstraction?": "Abstraction allows us to obscure details and give us  the ability to talk about problems at a higher level."},
+    {"What is abstraction?": "Abstraction allows us to obscure details and give us the ability to talk about problems at a higher level."},
     {"What is the relationship between encapsulation and data hiding?": "Through encapsulation, data can be hidden; we can protect the internal state of the object by hiding attributes."},
     {"Name the four pillars of OOP (according to some)": "Abstraction, Polymorphism, Inheritance, Encapsulation"},
     {"What are two ways to implement polymorphism?": "1) Inheritance 2) Design by contract (interface contract)"},
