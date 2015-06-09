@@ -12,7 +12,8 @@ class Quiz
     {"What is the relationship between encapsulation and data hiding?": "Through encapsulation, data can be hidden; we can protect the internal state of the object by hiding attributes."},
     {"Name the four pillars of OOP (according to some)": "Abstraction, Polymorphism, Inheritance, Encapsulation"},
     {"What are two ways to implement polymorphism?": "1) Inheritance 2) Design by contract (interface contract)"},
-    {"What is the difference between abstraction and encapsulation?": "Encapsulation can be used as a strategy to provide abstraction."}
+    {"What is the difference between abstraction and encapsulation?": "Encapsulation can be used as a strategy to provide abstraction."},
+    {"What are 'setters' & 'getters'?": "They are deliberate constraints designed to dictate how the object will maintain its state in the public interface"}
   ]
 
   attr_reader :question_number
